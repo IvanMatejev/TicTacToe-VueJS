@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    margin: 50px auto;
+    box-shadow: 0 0 8px gray;
+}
+
+.boxxx {
+    width: 200px;
+    height: 200px;
+    border: 1px solid whitesmoke;
+    background: lightseagreen;
+    float: left;
+    font-size: 100px;
+    text-align: center;
+    line-height: 200px;
+    color: whitesmoke;
+    cursor: pointer;
+    user-select: none;
+}
